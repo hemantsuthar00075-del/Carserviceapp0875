@@ -1,0 +1,6 @@
+{
+  "name": "Game Grid - Sports Community & Match Finder",
+  "description": "Discover local pickup games, book venue slots, join sports communities, track player ranks and skill levels, and connect with teammates.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
